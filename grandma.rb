@@ -17,5 +17,4 @@ def speak_to_grandma(phrase)
   elsif phrase == phrase.upcase
     "NO, NOT SINCE 1938!"
   end
-  "poop"
 end
